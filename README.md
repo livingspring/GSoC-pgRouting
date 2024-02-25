@@ -1,3 +1,12 @@
+# About Building - Windows user to build  pgRouting
+## May spend a weekend to solve lots of problem
+### Path ,Env, Tools
+### CMake
+### local
+### int64
+### Boost
+
+
 # pgRouting - Routing on PostgreSQL
 
 [![Join the chat at https://gitter.im/pgRouting/pgrouting](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pgRouting/pgrouting?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
